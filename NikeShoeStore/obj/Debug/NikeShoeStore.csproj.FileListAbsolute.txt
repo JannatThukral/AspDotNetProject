@@ -1,0 +1,153 @@
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.dll.config
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.pdb
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.exe
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.exe.config
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.rsp
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\csi.exe
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\csi.rsp
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\System.AppContext.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Collections.Immutable.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\System.IO.FileSystem.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.exe
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.exe.config
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.rsp
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\VBCSCompiler.exe
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\roslyn\VBCSCompiler.exe.config
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Antlr3.Runtime.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\AspNet.ScriptManager.jQuery.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Newtonsoft.Json.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\System.Web.Optimization.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\WebGrease.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\System.Web.Optimization.xml
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Newtonsoft.Json.xml
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Antlr3.Runtime.pdb
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.AssemblyReference.cache
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.CoreCompileInputs.cache
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.CopyComplete
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.dll
+F:\Conestoga College\Level 3\.net Programming\Project\Jannat\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.pdb
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.dll.config
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.pdb
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.exe
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.exe.config
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.rsp
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\csi.exe
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\csi.rsp
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\System.AppContext.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.exe
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.exe.config
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.rsp
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Antlr3.Runtime.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Newtonsoft.Json.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\System.Web.Optimization.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\WebGrease.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\System.Web.Optimization.xml
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Newtonsoft.Json.xml
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Antlr3.Runtime.pdb
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.AssemblyReference.cache
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.CopyComplete
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.dll
+C:\Users\thukr\OneDrive\Desktop\NikeShoeStore\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.pdb
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.dll.config
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\NikeShoeStore.pdb
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.exe
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.exe.config
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\csc.rsp
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\csi.exe
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\csi.rsp
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\System.AppContext.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.exe
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.exe.config
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\vbc.rsp
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Antlr3.Runtime.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Newtonsoft.Json.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\System.Web.Optimization.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\WebGrease.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\System.Web.Optimization.xml
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Newtonsoft.Json.xml
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Antlr3.Runtime.pdb
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.AssemblyReference.cache
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.csproj.CopyComplete
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.dll
+C:\Users\thukr\OneDrive\Desktop\Group6_FinalProject\NikeShoeStore\NikeShoeStore\obj\Debug\NikeShoeStore.pdb
